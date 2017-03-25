@@ -275,7 +275,6 @@ select {
 .header h1.logo {
   margin-top: 0;
   margin-bottom: 0;
-  text-transform: uppercase;
   font-weight: bold;
   font-size: 28px;
   max-height: 50px;
@@ -806,9 +805,9 @@ select {
 }
 .how .content .title {
   margin-top: 0;
-  margin-bottom: 30px;
 }
 .how .content .intro {
+  margin-top: 30px;
   margin-bottom: 30px;
   font-size: 16px;
   font-weight: 300;
