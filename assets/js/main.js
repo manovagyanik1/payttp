@@ -30,7 +30,7 @@ jQuery(document).ready(function($) {
     $('input, textarea').placeholder();
     
     /* ======= jQuery FitVids - Responsive Video ======= */
-    $("#video-container").fitVids();    
+    $(".video-container").fitVids();    
     
     /* ======= jQuery Responsive equal heights plugin ======= */
     /* Ref: https://github.com/liabru/jquery-match-height */
